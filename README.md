@@ -1,9 +1,3 @@
-Olá! 👋 Me chamo Pedro de Freitas.
-
-👨‍💻 Estudante de Ciência e Tecnologia na UFBA, apaixonado por dados e Inteligência Artificial.
-
-Meu foco atual é construir uma base sólida em pensamento crítico e lógico, aplicando esses conceitos para resolver problemas complexos. Estou constantemente explorando novas ferramentas e técnicas em Data Science e Machine Learning. <p> Atualmente explorando: <p>🐍 Python para automação e análise de dados <p>📊 Manipulação e análise de dados <p>🕸️ Web Scraping <p>🤖 Fundamentos de Machine Learning e IA <p>🌱 Buscando oportunidades para aprender e colaborar em projetos de dados.
-
 
 <div align="center">
   <img height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
