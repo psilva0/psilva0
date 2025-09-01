@@ -67,7 +67,7 @@ Meu foco atual é construir uma base sólida em pensamento crítico e lógico, a
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=psilva0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=psilva0&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 </p>
 
