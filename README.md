@@ -32,7 +32,7 @@ Atualmente explorando:
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Olá! Me chamo Pedro de Freitas! 👋</h1>
 
 ###
 
@@ -40,7 +40,10 @@ Atualmente explorando:
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">👨‍💻 Estudante de Ciência e Tecnologia na UFBA, apaixonado por dados e Inteligência Artificial.
+
+Meu foco atual é construir uma base sólida em pensamento crítico e lógico, aplicando esses conceitos para resolver problemas complexos. Estou constantemente explorando novas ferramentas e técnicas em Data Science e Machine Learning <p> Atualmente explorando: <p> 🐍 Python para automação e análise de dados <p> 📊 Manipulação de dados <p> 🕸️ Web Scraping <p> 🤖 Fundamentos de Machine Learning e IA <p> 🌱 Buscando oportunidades para aprender e colaborar em projetos de dados.
+
 
 ###
 
@@ -49,7 +52,7 @@ Atualmente explorando:
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
