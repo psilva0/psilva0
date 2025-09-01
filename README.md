@@ -52,7 +52,7 @@ Meu foco atual é construir uma base sólida em pensamento crítico e lógico, a
 ###
 
 <div align="left">
-  <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" height="40" alt="go logo"  />
+  <img src="[http://ForTheBadge.com/images/badges/made-with-python.svg](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
