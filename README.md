@@ -60,9 +60,10 @@ Sou apaixonado por transformar dados em decisões. Atualmente, foco meus estudos
 
 ###  Estatísticas e Atividade
 
+
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=psilva0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psilva0&layout=compact&theme=tokyonight&hide=html,css&locale=pt-br" alt="Top Langs" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=psilva0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psilva0&layout=compact&theme=tokyonight&hide=html,css&locale=pt-br" alt="Top Langs" />
 </div>
 
 <br>
@@ -75,4 +76,4 @@ Sou apaixonado por transformar dados em decisões. Atualmente, foco meus estudos
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=psilva0&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=0077B5&style=for-the-badge" alt="Profile Views" />
-</div>>
+</div>
