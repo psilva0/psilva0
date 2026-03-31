@@ -61,18 +61,23 @@ Sou apaixonado por transformar dados em decisões. Atualmente, foco meus estudos
 ###  Estatísticas e Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psilva0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psilva0&layout=compact&theme=tokyonight&hide=html,css&locale=pt-br&v=1" alt="Top Langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=psilva0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psilva0&theme=tokyonight&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=psilva0&bg_color=1a1b27&color=70a5fd&line=3776AB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20Recentes" alt="Activity Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=psilva0&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=0077B5&style=for-the-badge&v=1" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psilva0&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=psilva0&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=0077B5&style=for-the-badge" alt="Profile Views" />
 </div>
