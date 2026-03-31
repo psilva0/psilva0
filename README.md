@@ -14,7 +14,7 @@
 <h1 align="center">Olá! Me chamo Pedro de Freitas 👋</h1>
 
 <p align="center">
-  <strong>Estudante de Ciência e Tecnologia (UFBA) | Aspirante a Cientista de Dados | Membro da LIAO</strong>
+  <strong>Estudante de Ciência e Tecnologia (UFBA) | Membro da LIAO</strong>
 </p>
 
 ---
