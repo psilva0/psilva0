@@ -25,7 +25,7 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### Sobre Mim
 
 Sou apaixonado por transformar dados em decisões. Atualmente, foco meus estudos em **Ciência de Dados e Inteligência Artificial**, aplicando lógica e pensamento crítico para resolver problemas complexos.
 
