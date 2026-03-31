@@ -25,14 +25,14 @@
 
 ---
 
-### Sobre Mim
+### 👨‍💻 Sobre Mim
 
 Sou apaixonado por transformar dados em decisões. Atualmente, foco meus estudos em **Ciência de Dados e Inteligência Artificial**, aplicando lógica e pensamento crítico para resolver problemas complexos.
 
--  Graduando em Ciência e Tecnologia na **UFBA**.
--  Integrante da diretoria geral da **LIAO (Liga de Inteligência e Otimização da UFBA)**.
--  Atualmente trabalhando com: **Análise de Dados**, **Análise de Negócio** e **Dashboards de BI**.
--  Explorando: Quantização de modelos, Machine Learning e Web Scraping.
+- Graduando em Ciência e Tecnologia na **UFBA**.
+- Integrante da diretoria geral da **LIAO (Liga de Inteligência e Otimização da UFBA)**.
+- Atualmente trabalhando com: **Análise de Dados**, **Análise de Negócio** e **Dashboards de BI**.
+- Aprofundando: Predições / Machine Learning.
 
 ---
 
@@ -47,8 +47,8 @@ Sou apaixonado por transformar dados em decisões. Atualmente, foco meus estudos
   <p><strong>Bibliotecas de Dados & IA</strong></p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Whisper%20AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 
   <p><strong>Business Intelligence</strong></p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -58,7 +58,7 @@ Sou apaixonado por transformar dados em decisões. Atualmente, foco meus estudos
 
 ---
 
-###  Estatísticas e Atividade
+### Estatísticas e Atividade
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=psilva0&bg_color=1a1b27&color=70a5fd&line=3776AB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20Recentes" alt="Activity Graph" />
