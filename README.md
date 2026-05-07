@@ -31,7 +31,7 @@ Sou apaixonado por transformar dados em decisões. Atualmente, foco meus estudos
 
 - Graduando em Ciência e Tecnologia na **UFBA**.
 - Integrante da diretoria geral da **LIAO (Liga de Inteligência e Otimização da UFBA)**.
-- Atualmente trabalhando com: **Análise de Dados**, **Análise de Negócio** e **Dashboards de BI**.
+- Atualmente estudando sobre: **Data Analytics**, **Análise de Negócio** e **Dashboards de BI**.
 - Aprofundando: Predições / Machine Learning.
 
 ---
