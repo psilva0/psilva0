@@ -72,6 +72,3 @@ Sou apaixonado por transformar dados em decisões. Atualmente, foco meus estudos
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=psilva0&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=0077B5&style=for-the-badge" alt="Profile Views" />
-</div>
