@@ -58,18 +58,4 @@ Sou apaixonado por transformar dados em decisões. Atualmente, foco meus estudos
 
 ---
 
-### Estatísticas e Atividade
-
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psilva0&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=psilva0&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=0077B5&style=for-the-badge" alt="Profile Views" />
-</div>
-
 
