@@ -20,7 +20,7 @@
 </div>
 
 <p align="center">
-  <strong>Estudante de Ciência e Tecnologia (UFBA) | Membro da diretoria geral da LIAO</strong>
+  <strong>Estudante de Ciência e Tecnologia (UFBA) | Diretor da Secretaria geral da LIAO</strong>
 </p>
 
 ---
