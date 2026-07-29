@@ -10,41 +10,40 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="instagram logo" />
   </a>
 </div>
-
 <br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Me+chamo+Pedro+de+Freitas+%F0%9F%91%8B;Apaixonado+por+Dados+e+IA+%F0%9F%A4%96;Transformando+dados+em+decis%C3%B5es+%F0%9F%93%8A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi!+My+name+is+Pedro+de+Freitas+%F0%9F%91%8B;Passionate+about+Data+and+AI+%F0%9F%A4%96;Turning+data+into+decisions+%F0%9F%93%8A" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <strong>Estudante de Ciência e Tecnologia (UFBA) | Diretor da Secretaria geral da LIAO</strong>
+  <strong>Science and Technology Student (UFBA) | General Secretariat Director at LIAO</strong>
 </p>
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-Sou apaixonado por transformar dados em decisões. Atualmente, foco meus estudos em **Ciência de Dados e Inteligência Artificial**, aplicando lógica e pensamento crítico para resolver problemas complexos.
+I'm passionate about turning data into decisions. I currently focus my studies on **Data Science and Artificial Intelligence**, applying logic and critical thinking to solve complex problems.
 
-- Graduando em Ciência e Tecnologia na **UFBA**.
-- Integrante da diretoria geral da **LIAO (Liga de Inteligência Artificial e Otimização da UFBA)**.
-- Atualmente estudando sobre: **Data Analytics**, **Análise de Negócio** e **Dashboards de BI**.
-- Aprofundando: Predições / Machine Learning.
+- Undergraduate student in Science and Technology at **UFBA**.
+- Member of the general board of **LIAO (Artificial Intelligence and Optimization League at UFBA)**.
+- Currently studying: **Data Analytics**, **Business Analysis**, and **BI Dashboards**.
+- Deepening my knowledge in: Predictions / Machine Learning.
 
 ---
 
-### Linguagens e Ferramentas
+### Languages and Tools
 
 <div align="center">
   
-  <p><strong>Linguagens</strong></p>
+  <p><strong>Languages</strong></p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   
-  <p><strong>Bibliotecas de Dados & IA</strong></p>
+  <p><strong>Data & AI Libraries</strong></p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -53,9 +52,6 @@ Sou apaixonado por transformar dados em decisões. Atualmente, foco meus estudos
   <p><strong>Business Intelligence</strong></p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-
 </div>
 
 ---
-
-
